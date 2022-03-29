@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+}
+h1{
+    color: pink;
+}
+h2{
+    color: goldenrod;
+}
+h3{
+    color: white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+img{
+    width: 300px;
+}
